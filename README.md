@@ -144,6 +144,13 @@ The dashboard source code is maintained in a separate repository: **[View the da
 └── README.md
 ````
 
+`.env` file example for required MySQL credentials:
+````
+DB_USER="your_database_user_name"
+PASSWORD="your_database_user_password"
+HOST="database_host"  # e.g. 127.0.0.1, localhost, or a remote DB hostname/IP
+````
+
 ### How to Explore the Project
 
 The notebooks are numbered in the recommended reading order:
