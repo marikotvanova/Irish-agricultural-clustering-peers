@@ -96,9 +96,15 @@ Normality was assessed separately for each country and variable before selecting
 
 ## Key Findings
 
-Across the strongest clustering configurations, Ireland was most consistently grouped with **Australia, New Zealand, Uruguay and the United Kingdom**.
+The clustering analysis identified recurring agricultural similarities between Ireland and a small group of countries. Across the shortlisted models, Ireland was consistently grouped with **New Zealand**, while its broader peer group varied depending on the clustering configuration. Other countries appearing alongside Ireland included **Australia, Uruguay and the United Kingdom**.
 
-The results suggest that these countries share agricultural characteristics associated with pasture-based production, livestock farming and agricultural exports. However, the statistical analysis also identified important differences within this group.
+The t-SNE visualisation below illustrates how Ireland's cluster membership changes across the four shortlisted solutions.
+
+![t-SNE comparison of the four shortlisted clustering models](figure_tsne_top4_models.png)
+
+*Figure 1. t-SNE projections of the four shortlisted clustering solutions. Colours indicate cluster assignments, with Ireland highlighted. The projections provide a visual overview of the groupings; conclusions are based on the clustering results and validation rather than visual separation alone.*
+
+These results suggest that Ireland shares agricultural characteristics with several countries, although the composition of its peer group depends on the modelling approach. The statistical analysis also identified important differences within this group.
 
 Notable findings included:
 
