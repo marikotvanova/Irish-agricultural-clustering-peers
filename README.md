@@ -16,14 +16,17 @@ The project aimed to:
 * compare Ireland statistically with its most consistent agricultural peers;
 * highlight the characteristics that distinguish Ireland’s agricultural system.
 
-## Data
+## Data Sources and Licensing
 
-The analysis primarily uses data from **FAOSTAT**, including:
+The agricultural data used in this project were obtained from [FAOSTAT](https://www.fao.org/faostat/), the Food and Agriculture Organization of the United Nations' statistical database.
 
-* crop production and yields;
-* livestock and animal-product production;
-* agricultural land use;
-* agricultural export values.
+FAOSTAT data are generally available under the [Creative Commons Attribution 4.0 International licence (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/), subject to FAO's [Statistical Database Terms of Use](https://www.fao.org/contact-us/terms/db-terms-of-use/en) and any dataset-specific or third-party restrictions.
+
+The original datasets were cleaned, transformed and combined to create the analytical dataset used for exploratory analysis, clustering and statistical comparisons.
+
+**Attribution:** FAO. FAOSTAT statistical database. [https://www.fao.org/faostat/](https://www.fao.org/faostat/). Licence: CC BY 4.0, subject to the terms above.
+
+The licence for the source data does not automatically apply to the project's original code, notebooks or analysis.
 
 The original data covered the period from **2000 to 2024**. For the main machine-learning analysis, agricultural indicators were aggregated across **2015–2023** to represent recent agricultural structure while reducing year-to-year variation.
 
