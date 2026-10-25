@@ -1,4 +1,4 @@
-# Comparative Analysis of Irish Agriculture
+# Comparative Analysis of Irish Agriculture 🇮🇪
 
 This project examines Ireland’s agricultural profile in comparison with other countries using international agricultural data, unsupervised machine learning and inferential statistics.
 
@@ -124,7 +124,7 @@ The dashboard was designed using principles of clear visual comparison, consiste
 
 **[Open the interactive Streamlit dashboard](https://agridashpy-hctjddlnnkkg9bxrtaw7zn.streamlit.app/)**
 
-The dashboard source code is maintained in a separate repository: **[View the dashboard source code](https://github.com/CCT2026254/streamlit_dash_ca2)**
+The dashboard source code is maintained in a separate repository: **[View the dashboard source code](https://github.com/marikotvanova/Irish-agriculture-streamlit-dashboard)**
 
 ## Repository Structure
 
